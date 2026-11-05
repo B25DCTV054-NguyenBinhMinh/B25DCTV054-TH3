@@ -1,0 +1,58 @@
+export const initialExpenses = [
+  {
+    id: "expense-001",
+    title: "Cơm rang dưa bò",
+    amount: 35000,
+    category: "Ăn uống",
+    date: "2026-10-01",
+  },
+  {
+    id: "expense-002",
+    title: "Đi Gờ ráp",
+    amount: 10000,
+    category: "Đi lại",
+    date: "2026-10-02",
+  },
+  {
+    id: "expense-003",
+    title: "Mua ChatGPT Plus",
+    amount: 522500,
+    category: "Học tập",
+    date: "2026-10-03",
+  },
+  {
+    id: "expense-004",
+    title: "Xem phim",
+    amount: 90000,
+    category: "Giải trí",
+    date: "2026-10-04",
+  },
+  {
+    id: "expense-005",
+    title: "Mua bánh mì và sữa",
+    amount: 30000,
+    category: "Ăn uống",
+    date: "2026-10-05",
+  },
+  {
+    id: "expense-006",
+    title: "Đổ xăng xe máy",
+    amount: 90000,
+    category: "Đi lại",
+    date: "2026-10-06",
+  },
+  {
+    id: "expense-007",
+    title: "In tài liệu môn học",
+    amount: 24000,
+    category: "Học tập",
+    date: "2026-10-07",
+  },
+  {
+    id: "expense-008",
+    title: "Cà phê",
+    amount: 45000,
+    category: "Giải trí",
+    date: "2026-10-08",
+  },
+];
